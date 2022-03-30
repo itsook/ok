@@ -5,8 +5,8 @@
 ; $ ./ok
 
 BITS 64
-
 global _start
+
 segment .text
 
 _start:
