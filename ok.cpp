@@ -1,9 +1,6 @@
-
-// ok
-
 #include <iostream>
 
-int main() {
-    std::cout << "ok";
+int main(void) {
+    std::cout << "ok" << '\n';
     return 0;
 }
