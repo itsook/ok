@@ -1,5 +1,3 @@
-
-program hello
-  ! ok
+program ok
   print *, 'ok'
-end program hello
+end program ok
